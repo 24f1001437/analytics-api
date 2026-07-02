@@ -68,7 +68,7 @@ def process_analytics(
 
     # 3. THE RESPONSE
     return {
-        "email": "YOUR_ACTUAL_EMAIL@EXAMPLE.COM", # <-- CHANGE THIS TO YOUR EXAM EMAIL!
+        "email": "24f1001437@ds.study.iitm.ac.in", # <-- CHANGE THIS TO YOUR EXAM EMAIL!
         "total_events": len(events),
         "unique_users": len(unique_users),
         "revenue": revenue,
